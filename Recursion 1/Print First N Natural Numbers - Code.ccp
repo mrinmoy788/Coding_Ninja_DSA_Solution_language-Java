@@ -1,3 +1,4 @@
+/*
 Given the number 'n', write a code to print numbers from 1 to n in increasing order recursively.
 Input Format :
 Integer n
@@ -13,6 +14,7 @@ Sample Input 2 :
  4
 Sample Output 2 :
 1 2 3 4
+*/
 
 
 
