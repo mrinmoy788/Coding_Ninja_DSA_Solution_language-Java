@@ -1,5 +1,4 @@
-/*
-Given the number 'n', write a code to print numbers from 1 to n in increasing order recursively.
+/*  Given the number 'n', write a code to print numbers from 1 to n in increasing order recursively.
 Input Format :
 Integer n
 Output Format :
@@ -13,10 +12,8 @@ Sample Output 1 :
 Sample Input 2 :
  4
 Sample Output 2 :
-1 2 3 4
+1 2 3 4  
 */
-
-
 
 public class Solution {
 
